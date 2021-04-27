@@ -1,0 +1,19 @@
+﻿  Button.cpp
+  Character.cpp
+  Enemy.cpp
+  GameEgine.cpp
+C:\Users\ACER\Desktop\ \LuffyJunp - Copy - Copy\LuffyJunp\GameEgine.cpp(73,45): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\ACER\Desktop\ \LuffyJunp - Copy - Copy\LuffyJunp\GameEgine.cpp(74,47): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  LoadTexture.cpp
+  Main.cpp
+C:\Users\ACER\Desktop\ \LuffyJunp - Copy - Copy\LuffyJunp\Main.cpp(121,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  LuffyJunp.vcxproj -> C:\Users\ACER\Desktop\ \LuffyJunp - Copy - Copy\Debug\LuffyJunp.exe
